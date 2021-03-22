@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_of_test: 2021-03-23
+  lab_number: MyString
+  clinic_code: MyString
+  lab_studies: MyText
+  patient: one
+
+two:
+  date_of_test: 2021-03-23
+  lab_number: MyString
+  clinic_code: MyString
+  lab_studies: MyText
+  patient: two
